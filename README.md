@@ -9,3 +9,8 @@ $ git push -u origin master 将本次更改更新到github项目上去，删除�
 
 git config --global http.postBuffer 524288000
 git config --list
+
+
+
+git clone --depth 1 仓库地址
+git branch -a
