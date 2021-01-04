@@ -14,3 +14,6 @@ git config --list
 
 git clone --depth 1 仓库地址
 git branch -a
+
+
+terminal上git命令显示颜色，可以设置git config --global color.ui true
